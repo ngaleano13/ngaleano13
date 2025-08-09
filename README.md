@@ -42,9 +42,9 @@ Soy una persona comprometida, que siempre busca aportar lo mejor, incluso en los
 
 ---
 
-## 🚀 Proyecto Actual
+## Proyecto Actual
 
-### 🏥 MedAPI - Backend (Spring Boot)
+### MedAPI - Backend (Spring Boot)
 
 Estoy desarrollando una API REST para un centro médico utilizando Spring Boot. El objetivo es gestionar:
 
@@ -52,7 +52,7 @@ Estoy desarrollando una API REST para un centro médico utilizando Spring Boot. 
 - **Usuarios**: Roles diferenciados entre ADMIN y USER.
 - **Futuro**: Implementación de gestión de turnos médicos.
 
-### 💻 Frontend
+### Frontend
 
 Aún no he comenzado el desarrollo del frontend, pero planeo usar React junto con librerías para mapas y diseño responsivo para complementar el backend.
 
